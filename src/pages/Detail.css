@@ -1,0 +1,30 @@
+
+/* Detail.css */
+.detail-container {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .detail-title {
+    font-size: 24px;
+    font-weight: bold;
+    color : white;
+  }
+  
+  .detail-description {
+    font-size: 16px;
+    margin-top: 10px;
+    color : white;
+  }
+  
+  .detail-image {
+    max-width: 25%;
+    margin-top: 20px;
+  }
+  .detail-genre {
+    font-size: 20px;
+    padding-top: 5px;
+    color: white;
+  
+  }
+  
